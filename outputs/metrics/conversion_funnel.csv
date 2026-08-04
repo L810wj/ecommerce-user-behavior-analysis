@@ -1,0 +1,5 @@
+﻿behavior_stage,user_count,behavior_count,stage_order,conversion_rate_from_pv,conversion_rate_from_previous_stage
+pv,6000,111000,1,1,1
+cart,720,4800,2,0.12,0.12
+fav,540,3000,3,0.09,0.75
+buy,300,1200,4,0.05,0.5556

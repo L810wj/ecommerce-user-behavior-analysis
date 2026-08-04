@@ -179,3 +179,27 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# 数据库密码和环境变量
+.env
+.env.*
+config.ini
+secrets.json
+*.key
+
+# 不上传完整原始数据
+data/raw/*
+!data/raw/README.md
+
+# 压缩包
+*.zip
+*.rar
+*.7z
+
+# 日志和临时文件
+*.log
+temp/
+tmp/
+
+# Power BI临时文件
+*.pbit.tmp
