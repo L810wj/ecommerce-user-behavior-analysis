@@ -1,0 +1,8 @@
+pandas
+numpy
+python-dateutil
+matplotlib
+pyspark
+scikit-learn
+joblib
+xgboost
